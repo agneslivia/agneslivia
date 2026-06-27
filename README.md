@@ -9,5 +9,5 @@
 ## ☎️ Contact Me:
 <p align="center">
 
-<a href = https://github.com/agneslivia>Github></a>
+<a href = https://github.com/agneslivia>Github</a>
 <a href = https://www.linkedin.com/in/agnes-oszi>LinkedIn</a>
