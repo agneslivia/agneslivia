@@ -1,4 +1,4 @@
-<img src="https://github.com/agneslivia/agneslivia/blob/master/assets/bgg.png" />
+<img src="https://github.com/agneslivia/agneslivia/blob/master/bgg.png" />
 
 <p>&nbsp;</p>
 
