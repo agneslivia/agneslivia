@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://github.com/agneslivia/agneslivia/blob/master/assets/bgg.png" />
 
-<!--
-**agneslivia/agneslivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
+## 📚 About Me:
+- 🧙‍♀️ I'm a Designer 
+- 📧 You can reach me at: <a href = "mailto:o.agnes.livi@gmail.com">o.agnes.livi@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☎️ Contact Me:
+<p align="center">
+
+<a href = https://github.com/agneslivia>Github></a>
+<a href = https://www.linkedin.com/in/agnes-oszi>LinkedIn</a>
